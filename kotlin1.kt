@@ -1,7 +1,7 @@
 import kotlin.math.sqrt
 
 fun main() {
-    println("Введите коэффициенты a, b и c квадратного уравнения ax^2 + bx + c = 0")
+    println("Введите коэффициенты квадратного уравнения")
     
     val a = readLine()!!.toDouble()
     val b = readLine()!!.toDouble()
